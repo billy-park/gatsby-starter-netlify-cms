@@ -2,6 +2,8 @@
 templateKey: product-page
 title: Our Chi-tan
 image: /img/chi-tan.jpg
+image: /img/chi-tan.jpg
+image: /img/chi-tan.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
